@@ -1,0 +1,182 @@
+
+
+.forma{
+
+margin-left: 200px;
+margin-right: 200px;
+background-color: blue;
+
+}
+
+
+
+.navbar {
+    
+    background-color: rgba(240,240,240,.80) !important;
+    padding-left:20px; 
+
+}
+.active a{
+    color:white !important;
+    background-color: rgba(22, 164, 214, 0.95) !important;
+
+}
+.navbar-right{
+	font-size: 18px;
+	padding-left: 30px !important;
+}
+
+.navbar-header a{
+
+	 color: rgb(22, 164, 214) !important;
+	 font-size: 32px;
+}
+
+.toplogo p{
+	margin-top: 90px;
+	text-align: center;
+}
+
+
+
+
+.team {
+
+	margin-bottom: 60px;
+	text-align: right;
+}
+
+.serv {
+
+	
+	font-size: 60px;
+	text-align:center;
+	
+
+}
+
+.Acerca {
+
+text-align: center;
+font-size: 26px;
+margin-right: 120px;
+margin-left: 120px;
+margin-top: 50px;
+
+}
+
+.About{
+
+ text-align: center;
+ font-size: 26px;
+margin-right: 120px;
+margin-left: 120px;
+margin-top: 50px;
+
+
+
+}
+.pi{
+	border: none;
+  -webkit-box-shadow: inset 0px 0px 0px 2px rgba(0, 0, 0, 0.13);
+  -moz-box-shadow: inset 0px 0px 0px 2px rgba(0, 0, 0, 0.13);
+  -o-box-shadow: inset 0px 0px 0px 2px rgba(0, 0, 0, 0.13);
+  box-shadow: inset 0px 0px 0px 2px rgba(0, 0, 0, 0.90);
+  background-image: none;
+  padding: 15px 15px 15px 60px;
+ font-size: 18px;
+  line-height: 30px;
+  font-weight: 300;
+  outline: none;
+  -webkit-backface-visibility: hidden;
+  -webkit-transform: translateZ(0) scale(1, 1);
+  background-color: #000000;
+  zoom: 1;
+  background-color: transparent\9;
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#08000000, endColorstr=#08000000)";
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#08000000, endColorstr=#08000000);
+  background-color: rgba(0, 0, 0, 0.03);
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  -webkit-transition: color 200ms linear, background-color 200ms linear, box-shadow 200ms linear;
+  -moz-transition: color 200ms linear, background-color 200ms linear, box-shadow 200ms linear;
+  -o-transition: color 200ms linear, background-color 200ms linear, box-shadow 200ms linear;
+  -ms-transition: color 200ms linear, background-color 200ms linear, box-shadow 200ms linear;
+  transition: color 200ms linear, background-color 200ms linear, box-shadow 200ms linear;
+  margin-bottom: 30px;
+  font-family: 'Roboto', "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+input[type="text"]:focus,
+.pi textarea:focus {
+  background-color: #000000;
+  zoom: 1;
+  background-color: #16a4d6;
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#0f000000, endColorstr=#0f000000)";
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#0f000000, endColorstr=#0f000000);
+  background-color: rgba(0, 0, 0, 0.006);
+  -webkit-box-shadow: inset 0px 0px 0px 2px rgba(0, 0, 0, 0.26);
+  -moz-box-shadow: inset 0px 0px 0px 2px rgba(0, 0, 0, 0.26);
+  -o-box-shadow: inset 0px 0px 0px 2px rgba(0, 0, 0, 0.26);
+  box-shadow: inset 0px 0px 0px 2px rgba(0, 0, 0, 0.26);
+}
+.bluebox-contact .bbx-button,
+input[type="submit"] {
+  padding: 15px 30px !important;
+  display: inline-block;
+  background-color: white;
+  border: none !important;
+  background-image: none !important;
+  color: black;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  -webkit-box-shadow: inset 0px 0px 0px 2px rgba(0, 0, 0, 0.13);
+  -moz-box-shadow: inset 0px 0px 0px 2px rgba(0, 0, 0, 0.13);
+  -o-box-shadow: inset 0px 0px 0px 2px rgba(0, 0, 0, 0.13);
+  box-shadow: inset 0px 0px 0px 2px rgba(0, 0, 0, 0.13);
+  -webkit-transition: color 200ms linear, background-color 200ms linear, box-shadow 200ms linear;
+  -moz-transition: color 200ms linear, background-color 200ms linear, box-shadow 200ms linear;
+  -o-transition: color 200ms linear, background-color 200ms linear, box-shadow 200ms linear;
+  -ms-transition: color 200ms linear, background-color 200ms linear, box-shadow 200ms linear;
+  transition: color 200ms linear, background-color 200ms linear, box-shadow 200ms linear;
+}
+.pi,
+input[type="submit"].large-button {
+  padding: 30px 60px;
+}
+.in{
+position: relative;
+	content: "";
+
+
+
+
+}
+ .in input[type="text"],textarea{
+
+ 	width: 100%;
+
+ }
+
+
+.pi,
+input[type="submit"]:hover,
+input[type="submit"]:focus
+ {
+  color: rgba(0.0.0..75);
+    outline: none;
+  -webkit-box-shadow: inset 0px 0px 0px 2px rgba(0.0.0..75);
+  -moz-box-shadow: inset 0px 0px 0px 2px rgba(0.0.0..75);
+  -o-box-shadow: inset 0px 0px 0px 2px rgba(0.0.0..75);
+  box-shadow: inset 0px 0px 0px 2px #16a4d6 ;
+
+  
+}
+
+
+
+
+
